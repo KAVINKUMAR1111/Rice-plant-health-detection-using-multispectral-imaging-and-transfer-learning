@@ -13,9 +13,20 @@ To set up the project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/KAVINKUMAR1111/Rice-plant-health-detection-using-multispectral-imaging-and-transfer-learning.git
-
 2. Install the required dependencies.
-
 3. Start the backend server: python backend.py
-
 4. Launch the frontend application: Run the PyQT applicatation python frontend.py
+
+## Usage
+Upload images captured by NIR drones of a rice field and process them through the frontend. The regions highlighted in red indicate disease affected areas or unhealthy plant regions.
+
+## License
+This project is not liensed(open source code)
+
+## Contributions
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
+
+## Contact
+For any inquiries or questions, please contact kavin11112003@gmail.com.
+
+Please note that this project is not actively maintained, but your feedback is still highly appreciated.
