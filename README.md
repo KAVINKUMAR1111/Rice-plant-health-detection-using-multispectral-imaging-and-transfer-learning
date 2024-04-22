@@ -21,7 +21,7 @@ To set up the project, follow these steps:
 Upload images captured by NIR drones of a rice field and process them through the frontend. The regions highlighted in red indicate disease affected areas or unhealthy plant regions.
 
 ## License
-This project is not licensed(open source code)
+This project is not licensed(open source code).
 
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
