@@ -13,6 +13,4 @@ The pretrained UNet model for segmentation is available at https://drive.google.
 To set up the project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rice-plant-health-detection.git
-   cd rice-plant-health-detection
-
+   git clone https://github.com/KAVINKUMAR1111/Rice-plant-health-detection-using-multispectral-imaging-and-transfer-learning.git
