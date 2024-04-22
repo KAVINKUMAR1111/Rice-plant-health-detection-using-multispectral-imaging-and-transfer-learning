@@ -4,10 +4,10 @@
 This project aims to detect the health of rice plants using multispectral imaging and transfer learning techniques. By leveraging a pretrained UNet model and processing images through a FastAPI backend with a PyQt front-end application, we provide a comprehensive solution for assessing plant health.
 
 ## Dataset
-The dataset used in this project can be accessed at [Dataset Link](https://your-dataset-link.com).
+The dataset used in this project can be accessed at https://drive.google.com/file/d/1NrOjqKNzkoxhjgnTPbVzZLDL6_Qmdudq/view?usp=sharing.
 
 ## Pretrained Model
-The pretrained UNet model for segmentation is available at [Pretrained Model Link](https://your-model-link.com).
+The pretrained UNet model for segmentation is available at https://drive.google.com/file/d/10s4ikNGHhV7co4QYEjQPv-dNpuXB5Skx/view?usp=sharing.
 
 ## Installation
 To set up the project, follow these steps:
