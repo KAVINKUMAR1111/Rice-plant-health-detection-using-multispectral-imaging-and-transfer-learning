@@ -1,6 +1,5 @@
 # Rice Plant Health Detection Using Multispectral Imaging and Transfer Learning
 
-## Introduction
 This project aims to detect the health of rice plants using multispectral imaging and transfer learning techniques. By leveraging a pretrained UNet model and processing images through a FastAPI backend with a PyQt front-end application, we provide a comprehensive solution for assessing plant health.
 
 ## Dataset
@@ -14,3 +13,9 @@ To set up the project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/KAVINKUMAR1111/Rice-plant-health-detection-using-multispectral-imaging-and-transfer-learning.git
+
+2. Install the required dependencies.
+
+3. Start the backend server: python backend.py
+
+4. Launch the frontend application: Run the PyQT applicatation python frontend.py
