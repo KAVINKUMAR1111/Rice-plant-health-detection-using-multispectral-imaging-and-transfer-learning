@@ -6,7 +6,7 @@ This project aims to detect the health of rice plants using multispectral imagin
 The dataset used in this project can be accessed at https://drive.google.com/file/d/1NrOjqKNzkoxhjgnTPbVzZLDL6_Qmdudq/view?usp=sharing.
 
 ## Pretrained Model
-The pretrained UNet model for segmentation is available at https://drive.google.com/file/d/10s4ikNGHhV7co4QYEjQPv-dNpuXB5Skx/view?usp=sharing.
+The pretrained UNet model for segmentation is available at https://drive.google.com/file/d/14IQObbw4Bn6wgdulB8k_ubvkRd3cuoRb/view?usp=drive_link.
 
 ## Installation
 To set up the project, follow these steps:
